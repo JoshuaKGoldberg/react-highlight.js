@@ -14,7 +14,7 @@ export default class Application extends React.Component {
           </small>
         </h1>
         <p className='lead'>
-          A lightweight React wrapper around the&nbsp;<a href='https://highlightjs.org/'>Highlight.js</a>&nbsp;syntaxt highlighting library
+          A lightweight React wrapper around the&nbsp;<a href='https://highlightjs.org/'>Highlight.js</a>&nbsp;syntax highlighting library
         </p>
         <h2>Demo</h2>
         <HighlightDemo />
